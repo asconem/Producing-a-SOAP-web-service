@@ -1,0 +1,1 @@
+Builds a server that exposes data from various European countries by using a WSDL-based SOAP web service.
